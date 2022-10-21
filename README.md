@@ -6,7 +6,7 @@ An independent Software Engineer who loves to create and share projects about we
 - 🌱 I’m currently learning some language Kotlin, Swift, Flutter and Javascript
 - 💬 Feel free to ask me about mobile apps development
 - 📫 How to reach me: juniafirdaus@outlook.com
-- ⚡ Fun fact: Father of a daughter
+- ⚡ Fun fact: Father of a son
 
 ### Tech Stack
   <a href="#"><img align="left" alt="Kotlin" title="Kotlin" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" /></a>
