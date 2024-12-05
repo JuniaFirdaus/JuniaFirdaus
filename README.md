@@ -1,4 +1,4 @@
-### Hi there, I'm Junia Firdaus or you can call me AJUN👋
+### Hi there, I'm Junia Firdaus or you can call me JUNA👋
 
 An independent Software Engineer who loves to create and share projects about web and mobile technology! I've enjoyed Kotlin, Swift, Flutter, JavaScript and make it the main language in creating a project.
 
